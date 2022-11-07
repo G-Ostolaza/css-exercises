@@ -18,7 +18,7 @@ body {
 }
 
 .profile-image {
-  background: rebeccapurple;
+  background: darkcyan;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
   border-radius: 50%;
   width: 48px;
@@ -26,7 +26,7 @@ body {
 }
 
 .logo {
-  color: rebeccapurple;
+  color: darkcyan;
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
@@ -43,7 +43,7 @@ ul {
 button {
   border: none;
   border-radius: 8px;
-  background: rebeccapurple;
+  background: darkcyan;
   color: white;
   padding: 8px 24px;
 }
@@ -51,7 +51,7 @@ button {
 a {
   /* this removes the line under our links */
   text-decoration: none;
-  color: rebeccapurple;
+  color:darkcyan
 }
 
 .left, .right {
